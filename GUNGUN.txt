@@ -1,2 +1,2 @@
-NAME	:	GUNGUN
-location	:	KANPUR
+NAME	:	Gungun
+location	:	kanpur
