@@ -4,3 +4,4 @@ bb,22,11
 apple,1,1
 banana,2,1
 apple,1,2
+rice,20,2
